@@ -1,5 +1,7 @@
 DRAGON QUEST DB!
-(This is the repository for the frontend. The backend is at )
+DEPLOYED AT: 
+
+(This is the repository for the frontend. The backend is at https://github.com/thumpus/dragonquestdbbackend)
 
 This app is a database of information from the 1986 NES game, Dragon Quest (known as Dragon Warrior in the United States).
 
