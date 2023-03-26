@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=Press+Start+2P&display=swap');
+
+body {
+  background-color: black;
+  font-family: 'Press Start 2P'
+}
+.App {
+  text-align: center;
+  background-color: black;
+  align-content: center;
+}
+
+h1 {
+  font-family: 'Press Start 2P';
+  color: white;
+}
+h2 {
+  font-family: 'Press Start 2P';
+  color: white;
+}
+h3 {
+  font-family: 'Press Start 2P';
+  color: white;
+  size: '5px';
+}
+h4 {
+  font-family: 'Press Start 2P';
+  color: white;
+}
+p {
+  font-family: 'Press Start 2P';
+  color: white;
+}
+
+div {
+  text-align: center;
+  align-content: center;
+}
+
+table, th, td {
+  padding: 10px;
+  justify-content: center;
+  margin: auto;
+  text-align: center;
+  align-content: center;
+  font-family: 'Press Start 2P';
+  color: white;
+  border: 3px solid;
+}
+
+.card {
+  justify-content: center;
+  display: flex;
+  background-color: seagreen;
+  text-align: center;
+  align-content: center;
+  font-family: 'Press Start 2P';
+  color: white;
+  align-items: center;
+  margin: auto;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.card-img-bottom {
+  text-align: center;
+  align-content: center;
+}
+
+.row {
+  align-content: center;
+  margin: auto;
+}
+
+.cardGroup {
+  align-content: center;
+  margin: auto;
+}
+
+button {
+  border-radius: 8px;
+  padding: 12px 28px;
+  justify-content: center;
+  font-family: 'Press Start 2P';
+  background-color: black;
+  color: white;
+  align-content: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+label {
+  font-family: 'Press Start 2P';
+  color: white;
+  padding: 15px;
+}
+
+Button {
+  font-family: 'Press Start 2P';
+}
+
+.navItem {
+  white-space: nowrap;
+  color: white;
+  padding: 20px;
+}
