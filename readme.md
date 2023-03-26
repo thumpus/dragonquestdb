@@ -1,4 +1,5 @@
 DRAGON QUEST DB!
+(This is the repository for the frontend. The backend is at )
 
 This app is a database of information from the 1986 NES game, Dragon Quest (known as Dragon Warrior in the United States).
 
