@@ -1,5 +1,5 @@
 DRAGON QUEST DB!
-DEPLOYED AT: https://dragonquestdb.vercel.app/
+(Currently defunct) DEPLOYED AT: https://dragonquestdb.vercel.app/
 
 (This is the repository for the frontend. The backend is at https://github.com/thumpus/dragonquestdbbackend)
 
